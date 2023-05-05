@@ -1,0 +1,351 @@
+﻿@page "/"
+@inject IJSRuntime jsRuntime
+@using Syncfusion.Blazor;
+
+<body>
+	<!-- ======= Hero Section ======= -->
+	<section id="hero" class="d-flex align-items-center justify-content-center">
+		<div class="container" data-aos="fade-up">
+
+			<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+				<div class="col-xl-6 col-lg-8" style="width: 700px;">
+					<h1>WELCOME TO</h1>
+					<h1> <span> Kerala Exporters' forum</span></h1>
+				</div>
+			</div>
+		</div>
+	</section><!-- End Hero -->
+
+
+	<main id="main">
+
+		<!-- ======= About Section ======= -->
+		<section id="about" class="about">
+			<div class="container" data-aos="fade-up">
+				<div class="section-header" style="text-align: center;">
+					<h1 style="font-weight: bold; text-decoration: underline;">About Us</h1>
+				</div>
+				<br />
+				@*<div class="row gy-4">
+				<div class="col-lg-6">
+
+				<h3>"Exporters' Concern for Policy Change" </h3>
+				@*<img src="/Admin/assets/img/about.jpg" class="img-fluid rounded-4 mb-4" alt="">
+
+				</div>*@
+				<div>
+
+					<p>
+						As you may be aware, Kerala Exporter's forum has always remained at the forefront not only in creating platforms to share ideas and learnfrom best practices but equally advocating and representing Industry/Exporter's concerns to government and Policy regulators. Kerala Exporter's forum has been enabling joint action by Government and various Union Ministry.
+					</p>
+					<p @*class="fst-italic" *@>
+						We have had several consultations on what should be the way forward on the policy front. In fact, Several of forum's suggestions like - waiver of GRI (Gross Rate Index) Charged on Ocean freight by shipping Lines, morotarium on business and term loans during Covid Pandemic, additional Infusion and pumping of cash flow for working capital for Exporters, extension of period for availing MEIS (Merchant Exports Incentive Scheme) for exporters, allowing of Rilpee transaction mechanism on International Trade by Reserve Bank of India, are some of the Policy relateg matters addressed on the representation
+						Submitted by forum. Many of the Policy matters are amended by a Special Notification by Govt. of  India/Finance/Commercel and Shipping Ministries. Apart from that expediting of GST refunds for Exports,  and other receivables from ministry/departments, Conducting various exhibitions/events in both India and  International market, immediate intervention of Department of Comrhe ce/DGFT to Promote and boost exports from the present status are some other important steps taken by for.
+					</p>
+					<p>
+						Moreover, we continue to represent the challenges being faced by the I dustry and Exporter's at the ground level.
+						We have enabled our members as well as our associated bodies to address concerns they are facing and worked with them to solve problems relating to supply chain, access to markets, movement of goods and support with developing Standard Operating Procedures (SOP) across our State.
+
+					</p>
+					<p>
+						All our activities are oriented to achieve our mission and are around the concept of Nation a  Member to enhance efficiency and global competitiveness of Indian Origin Products. Exclusive high-level  interactions with foreign dignitaries, International Financial Institutions, Ambassadors, High Commissioners & dignitaries from Indian Ports Association, become an integral part of the process.
+
+					</p>
+					<p>
+						<strong>
+							Kerala Exporter's forum has a strong base of membership representing almost all sectors of the economy and of every scale and size across the State. The forum, along with its allied bodies such as Confederation of Indian Trade Industry (CITI), FICCI,FIEO, ICC-India, and various Chambers of Commerce has a solid base in State and Nation alike.
+						</strong>
+					</p>
+					@*<ul>
+					<li>
+					<i class="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.
+					</li>
+					<li>
+					<i class="bi bi-check-circle-fill"></i> Duis aute irure dolor in reprehenderit in voluptate velit.
+					</li>
+					<li>
+					<i class="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.
+					Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat
+					nulla pariatur.
+					</li>
+					</ul>*@
+					<p>
+						Kerala Exporter's forum has representation with various State and Central bodies, provide research inputs, business linkages and global connectivity within the State and industry for promoting investments and business collaborations.
+					</p>
+				</div>
+
+			</div>
+		</section><!-- End About Section -->
+		<!-- ======= Services Section ======= -->
+		<section id="services" class="services">
+			<div class="container" data-aos="fade-up">
+
+				<div class="section-title">
+					<h2>Services</h2>
+					<p>Check our Services</p>
+				</div>
+
+				<div class="row">
+					<div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+						<div class="icon-box">
+
+							<h4><a href="/Services">FIEO Membership - RCMC</a></h4>
+							@*<p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>*@
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+						<div class="icon-box">
+
+							<h4><a href="/Services">Certificate of Origin</a></h4>
+							@*<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>*@
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
+						<div class="icon-box">
+
+							<h4><a href="/Services">Events - Conferences</a></h4>
+							@*<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>*@
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
+						<div class="icon-box">
+
+							<h4><a href="/Services">B2B Meets and Seminars</a></h4>
+							@*<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>*@
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
+						<div class="icon-box">
+
+							<h4><a href="/Services">Trade Queries</a></h4>
+							@*<p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>*@
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+						<div class="icon-box">
+
+							<h4><a href="/Services">More..</a></h4>
+							<p>Services offered by Kerala Exporters' Forum. Click for More</p>
+						</div>
+					</div>
+
+				</div>
+
+			</div>
+		</section><!-- End Services Section -->
+		@*<!-- ======= Cta Section ======= -->
+		<section id="cta" class="cta">
+		<div class="container" data-aos="zoom-in">
+
+		<div class="text-center">
+		<h3>Call To Action</h3>
+		<p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		<a class="cta-btn" href="#">Call To Action</a>
+		</div>
+
+		</div>
+		</section><!-- End Cta Section -->*@
+
+		<!-- ======= Clients Section ======= -->
+		<section id="clients" class="clients">
+			<div class="container" data-aos="zoom-in">
+
+				<div class="clients-slider swiper">
+					<div class="swiper-wrapper align-items-center">						
+						<div class="swiper-slide"><img src="/Template/img/peekay_final_logo.jpg" class="img-fluid" alt="" style="width: 120.2px"></div>
+						<div class="swiper-slide"><img src="/Template/img/WIP_Logo-2.png" class="img-fluid" alt="" style="width: 120.2px"></div>
+						<div class="swiper-slide"><img src="/Template/img/VKC_Group_Logo.jpg" class="img-fluid" alt="" style="width: 120.2px"></div>
+						<div class="swiper-slide"><img src="/Template/img/Parisons_Logo.png" class="img-fluid" alt="" style="width: 120.2px"></div>
+						<div class="swiper-slide"><img src="/Template/img/clients/client-5.png" class="img-fluid" alt="" style="width:120.2px"></div>
+						<div class="swiper-slide"><img src="/Template/img/clients/client-6.png" class="img-fluid" alt="" style="width: 120.2px"></div>
+						<div class="swiper-slide"><img src="/Template/img/clients/client-7.png" class="img-fluid" alt="" style="width:120.2px"></div>
+						<div class="swiper-slide"><img src="/Template/img/clients/client-8.png" class="img-fluid" alt="" style="width:120.2px"></div>
+					</div>
+					<div class="swiper-pagination"></div>
+				</div>
+			</div>
+		</section><!-- End Clients Section -->
+		<!-- ======= Team Section ======= -->
+		<section id="team" class="team">
+			<div class="container" data-aos="fade-up">
+
+				<div class="section-title">
+					<h2>Team</h2>
+					<p>Check our Team</p>
+				</div>
+
+				<div class="row">
+
+					<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+						<div class="member" data-aos="fade-up" data-aos-delay="100">
+							<div class="member-img">
+								<img src="/Template/img/team/President.jpeg" class="img-fluid" alt="">
+							</div>
+							<div class="member-info">
+								<h4>KM Hameed Ali</h4>
+								<span>Mg Director, Veekaycee Group</span>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+						<div class="member" data-aos="fade-up" data-aos-delay="200">
+							<div class="member-img">
+								<img src="/Template/img/team/" class="img-fluid" alt="">
+							</div>
+							<div class="member-info">
+								<h4>Mayan Mohamedn</h4>
+								<span>Mg Director, Western India Plywoodr</span>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+						<div class="member" data-aos="fade-up" data-aos-delay="300">
+							<div class="member-img">
+								<img src="/Template/img/team/VPresident.jpeg" class="img-fluid" alt="">
+							</div>
+							<div class="member-info">
+								<h4>KE Moidu</h4>
+								<span>Mg Director, Peekay Steel Castings</span>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+						<div class="member" data-aos="fade-up" data-aos-delay="400">
+							<div class="member-img">
+								<img src="/Template/img/team/VPresident2.jpeg" class="img-fluid" alt="">
+							</div>
+							<div class="member-info">
+								<h4>KA Vijayan Menokey</h4>
+								<span>Mg Director, Subhasurya Energy</span>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+						<div class="member" data-aos="fade-up" data-aos-delay="400">
+							<div class="member-img">
+								<img src="/Template/img/team/SGeneral.jpeg" class="img-fluid" alt="">
+							</div>
+							<div class="member-info">
+								<h4>Munshid Ali</h4>
+								<span>Ceekey Global Trading, Calicut</span>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+						<div class="member" data-aos="fade-up" data-aos-delay="400">
+							<div class="member-img">
+								<img src="/Template/img/team/" class="img-fluid" alt="">
+							</div>
+							<div class="member-info">
+								<h4>VK Krishnakumar</h4>
+								<span>Managing Partner,Rolling Industries</span>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+						<div class="member" data-aos="fade-up" data-aos-delay="400">
+							<div class="member-img">
+								<img src="/Template/img/team/Treasurer.jpeg" class="img-fluid" alt="">
+							</div>
+							<div class="member-info">
+								<h4>NK Mohammed Ali</h4>
+								<span>Mg Director, Parrisons Group</span>
+							</div>
+						</div>
+					</div>
+
+				</div>
+
+			</div>
+		</section><!-- End Team Section -->
+		<!-- ======= Contact Section ======= -->
+		<section id="contact" class="contact">
+			<div class="container" data-aos="fade-up">
+
+				<div class="section-title">
+					<h2>Contact</h2>
+					<p>Contact Us</p>
+				</div>
+
+				<div>
+					<iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3914.634984770047!2d75.94627367395005!3d11.14053925237428!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba64efeb68826df%3A0xacf29d816d02287a!2sCalicut%20International%20Airport!5e0!3m2!1sen!2sin!4v1681492355812!5m2!1sen!2sin" frameborder="0" allowfullscreen></iframe>
+				</div>
+
+				<div class="row mt-5">
+
+					<div class="col-lg-4">
+						<div class="info">
+							<div class="address">
+								<i class="bi bi-geo-alt"></i>
+								<h4>Location:</h4>
+								<p>Calicut Airport, Karipppur</p>
+							</div>
+
+							<div class="email">
+								<i class="bi bi-envelope"></i>
+								<h4>Email:</h4>
+								@*<p>info@example.com</p>*@
+							</div>
+
+							<div class="phone">
+								<i class="bi bi-phone"></i>
+								<h4>Call:</h4>
+								<p>+91 9895114422</p>
+							</div>
+
+						</div>
+
+					</div>
+
+					@*<div class="col-lg-8 mt-5 mt-lg-0">
+
+					<form action="forms/contact.php" method="post" role="form" class="php-email-form">
+					<div class="row">
+					<div class="col-md-6 form-group">
+					<input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+					</div>
+					<div class="col-md-6 form-group mt-3 mt-md-0">
+					<input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+					</div>
+					</div>
+					<div class="form-group mt-3">
+					<input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+					</div>
+					<div class="form-group mt-3">
+					<textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+					</div>
+					<div class="my-3">
+					<div class="loading">Loading</div>
+					<div class="error-message"></div>
+					<div class="sent-message">Your message has been sent. Thank you!</div>
+					</div>
+					<div class="text-center"><button type="submit">Send Message</button></div>
+					</form>
+
+					</div>*@
+
+				</div>
+
+			</div>
+		</section><!-- End Contact Section -->
+
+	</main><!-- End #main -->
+	<a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+</body>
+@code{
+	protected async override Task OnAfterRenderAsync(bool firstRender)
+	{
+		await jsRuntime.InvokeVoidAsync("initSwiper", null);
+	}
+}

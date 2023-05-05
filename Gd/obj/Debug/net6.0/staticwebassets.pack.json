@@ -1,0 +1,685 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Gd.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Gd.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\css\\style.css",
+      "PackagePath": "staticwebassets\\Template\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\KEF_logo1-removebg-preview.png",
+      "PackagePath": "staticwebassets\\Template\\img\\KEF_logo1-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\Web poster.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\Web poster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\Web poster.pdf",
+      "PackagePath": "staticwebassets\\Template\\img\\Web poster.pdf"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\Template\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\blog\\blog-author-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-author-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\blog\\blog-author-3.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-author-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\blog\\blog-author-4.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-author-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\blog\\blog-author-5.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-author-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\blog\\blog-author-6.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-author-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\blog\\blog-author.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\blog\\blog-inside-post.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-inside-post.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\blog\\blog-recent-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-recent-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\blog\\blog-recent-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-recent-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\blog\\blog-recent-3.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-recent-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\blog\\blog-recent-4.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-recent-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\blog\\blog-recent-5.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\blog-recent-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\blog\\comments-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\comments-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\blog\\comments-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\comments-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\blog\\comments-3.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\comments-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\blog\\comments-4.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\comments-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\blog\\comments-5.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\comments-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\blog\\comments-6.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\blog\\comments-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\breadcrumbs-bg.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\breadcrumbs-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\clients\\client-1.png",
+      "PackagePath": "staticwebassets\\Template\\img\\clients\\client-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\clients\\client-2.png",
+      "PackagePath": "staticwebassets\\Template\\img\\clients\\client-2.png"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\clients\\client-3.png",
+      "PackagePath": "staticwebassets\\Template\\img\\clients\\client-3.png"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\clients\\client-4.png",
+      "PackagePath": "staticwebassets\\Template\\img\\clients\\client-4.png"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\clients\\client-5.png",
+      "PackagePath": "staticwebassets\\Template\\img\\clients\\client-5.png"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\clients\\client-6.png",
+      "PackagePath": "staticwebassets\\Template\\img\\clients\\client-6.png"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\clients\\client-7.png",
+      "PackagePath": "staticwebassets\\Template\\img\\clients\\client-7.png"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\clients\\client-8.png",
+      "PackagePath": "staticwebassets\\Template\\img\\clients\\client-8.png"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\cta-bg.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\cta-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\Template\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\hero-bg-abstract.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\hero-bg-abstract.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\hero-img.svg",
+      "PackagePath": "staticwebassets\\Template\\img\\hero-img.svg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\hero1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\hero1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\portfolio\\app-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\portfolio\\app-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\portfolio\\app-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\portfolio\\app-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\portfolio\\app-3.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\portfolio\\app-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\portfolio\\books-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\portfolio\\books-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\portfolio\\books-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\portfolio\\books-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\portfolio\\books-3.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\portfolio\\books-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\portfolio\\branding-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\portfolio\\branding-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\portfolio\\branding-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\portfolio\\branding-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\portfolio\\branding-3.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\portfolio\\branding-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\portfolio\\product-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\portfolio\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\portfolio\\product-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\portfolio\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\portfolio\\product-3.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\portfolio\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\stats-img.svg",
+      "PackagePath": "staticwebassets\\Template\\img\\stats-img.svg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\team\\President.jpeg",
+      "PackagePath": "staticwebassets\\Template\\img\\team\\President.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\team\\SGeneral.jpeg",
+      "PackagePath": "staticwebassets\\Template\\img\\team\\SGeneral.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\team\\Secretary.jpeg",
+      "PackagePath": "staticwebassets\\Template\\img\\team\\Secretary.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\team\\SecretaryGeneral.jpeg",
+      "PackagePath": "staticwebassets\\Template\\img\\team\\SecretaryGeneral.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\team\\Treasurer.jpeg",
+      "PackagePath": "staticwebassets\\Template\\img\\team\\Treasurer.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\team\\VPresident.jpeg",
+      "PackagePath": "staticwebassets\\Template\\img\\team\\VPresident.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\team\\VPresident2.jpeg",
+      "PackagePath": "staticwebassets\\Template\\img\\team\\VPresident2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\img\\testimonials\\testimonials-5.jpg",
+      "PackagePath": "staticwebassets\\Template\\img\\testimonials\\testimonials-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\js\\main.js",
+      "PackagePath": "staticwebassets\\Template\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\scss\\Readme.txt",
+      "PackagePath": "staticwebassets\\Template\\scss\\Readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\Template\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\Template\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Template\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\boxicons\\css\\animations.css",
+      "PackagePath": "staticwebassets\\Template\\vendor\\boxicons\\css\\animations.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\boxicons\\css\\boxicons.css",
+      "PackagePath": "staticwebassets\\Template\\vendor\\boxicons\\css\\boxicons.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\Template\\vendor\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\boxicons\\css\\transformations.css",
+      "PackagePath": "staticwebassets\\Template\\vendor\\boxicons\\css\\transformations.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\Template\\vendor\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\Template\\vendor\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\Template\\vendor\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\Template\\vendor\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\Template\\vendor\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\Template\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\Template\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\glightbox\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\Template\\vendor\\glightbox\\css\\plyr.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\glightbox\\css\\plyr.min.css",
+      "PackagePath": "staticwebassets\\Template\\vendor\\glightbox\\css\\plyr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\Template\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\Template\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\Template\\vendor\\isotope-layout\\isotope.pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\Template\\vendor\\isotope-layout\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\Template\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\purecounter\\purecounter_vanilla.js",
+      "PackagePath": "staticwebassets\\Template\\vendor\\purecounter\\purecounter_vanilla.js"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\remixicon\\remixicon.css",
+      "PackagePath": "staticwebassets\\Template\\vendor\\remixicon\\remixicon.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\remixicon\\remixicon.eot",
+      "PackagePath": "staticwebassets\\Template\\vendor\\remixicon\\remixicon.eot"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\remixicon\\remixicon.less",
+      "PackagePath": "staticwebassets\\Template\\vendor\\remixicon\\remixicon.less"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\remixicon\\remixicon.svg",
+      "PackagePath": "staticwebassets\\Template\\vendor\\remixicon\\remixicon.svg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\remixicon\\remixicon.symbol.svg",
+      "PackagePath": "staticwebassets\\Template\\vendor\\remixicon\\remixicon.symbol.svg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\remixicon\\remixicon.ttf",
+      "PackagePath": "staticwebassets\\Template\\vendor\\remixicon\\remixicon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\remixicon\\remixicon.woff",
+      "PackagePath": "staticwebassets\\Template\\vendor\\remixicon\\remixicon.woff"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\remixicon\\remixicon.woff2",
+      "PackagePath": "staticwebassets\\Template\\vendor\\remixicon\\remixicon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\Template\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\Template\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\Template\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Template\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\DeepthaA\\source\\repos\\Gd\\Gd\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Gd.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Gd.props",
+      "PackagePath": "build\\Gd.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Gd.props",
+      "PackagePath": "buildMultiTargeting\\Gd.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Gd.props",
+      "PackagePath": "buildTransitive\\Gd.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
