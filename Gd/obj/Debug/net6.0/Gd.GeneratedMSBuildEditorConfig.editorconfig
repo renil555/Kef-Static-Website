@@ -8,61 +8,61 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Gd
 build_property.RootNamespace = Gd
-build_property.ProjectDir = C:\Users\RenilMuhammad\OneDrive - Kovenantz Technologies India Private Limited\Downloads\Gd\Gd\
+build_property.ProjectDir = C:\Users\RenilMuhammad\Documents\Kef\Gd\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\RenilMuhammad\OneDrive - Kovenantz Technologies India Private Limited\Downloads\Gd\Gd
+build_property.MSBuildProjectDirectory = C:\Users\RenilMuhammad\Documents\Kef\Gd
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/RenilMuhammad/OneDrive - Kovenantz Technologies India Private Limited/Downloads/Gd/Gd/App.razor]
+[C:/Users/RenilMuhammad/Documents/Kef/Gd/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RenilMuhammad/OneDrive - Kovenantz Technologies India Private Limited/Downloads/Gd/Gd/Pages/Index.razor]
+[C:/Users/RenilMuhammad/Documents/Kef/Gd/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RenilMuhammad/OneDrive - Kovenantz Technologies India Private Limited/Downloads/Gd/Gd/Pages/PrivacyPolicy/PrivacyPloicy.razor]
+[C:/Users/RenilMuhammad/Documents/Kef/Gd/Pages/PrivacyPolicy/PrivacyPloicy.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeVBvbGljeVxQcml2YWN5UGxvaWN5LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RenilMuhammad/OneDrive - Kovenantz Technologies India Private Limited/Downloads/Gd/Gd/Pages/Services/Services.razor]
+[C:/Users/RenilMuhammad/Documents/Kef/Gd/Pages/Services/Services.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXNcU2VydmljZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RenilMuhammad/OneDrive - Kovenantz Technologies India Private Limited/Downloads/Gd/Gd/Pages/Terms of Services/TermsofService.razor]
+[C:/Users/RenilMuhammad/Documents/Kef/Gd/Pages/Terms of Services/TermsofService.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVybXMgb2YgU2VydmljZXNcVGVybXNvZlNlcnZpY2UucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RenilMuhammad/OneDrive - Kovenantz Technologies India Private Limited/Downloads/Gd/Gd/Pages/Test.razor]
+[C:/Users/RenilMuhammad/Documents/Kef/Gd/Pages/Test.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RenilMuhammad/OneDrive - Kovenantz Technologies India Private Limited/Downloads/Gd/Gd/Shared/SurveyPrompt.razor]
+[C:/Users/RenilMuhammad/Documents/Kef/Gd/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RenilMuhammad/OneDrive - Kovenantz Technologies India Private Limited/Downloads/Gd/Gd/_Imports.razor]
+[C:/Users/RenilMuhammad/Documents/Kef/Gd/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RenilMuhammad/OneDrive - Kovenantz Technologies India Private Limited/Downloads/Gd/Gd/Shared/MainLayout.razor]
+[C:/Users/RenilMuhammad/Documents/Kef/Gd/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-0tap4iwx9a
 
-[C:/Users/RenilMuhammad/OneDrive - Kovenantz Technologies India Private Limited/Downloads/Gd/Gd/Shared/NavMenu.razor]
+[C:/Users/RenilMuhammad/Documents/Kef/Gd/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-6yb7qcdtfv
 
-[C:/Users/RenilMuhammad/OneDrive - Kovenantz Technologies India Private Limited/Downloads/Gd/Gd/Pages/Error.cshtml]
+[C:/Users/RenilMuhammad/Documents/Kef/Gd/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RenilMuhammad/OneDrive - Kovenantz Technologies India Private Limited/Downloads/Gd/Gd/Pages/_Host.cshtml]
+[C:/Users/RenilMuhammad/Documents/Kef/Gd/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RenilMuhammad/OneDrive - Kovenantz Technologies India Private Limited/Downloads/Gd/Gd/Pages/_Layout.cshtml]
+[C:/Users/RenilMuhammad/Documents/Kef/Gd/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

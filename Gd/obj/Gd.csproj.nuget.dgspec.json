@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RenilMuhammad\\OneDrive - Kovenantz Technologies India Private Limited\\Downloads\\Gd\\Gd\\Gd.csproj": {}
+    "C:\\Users\\RenilMuhammad\\Documents\\Kef\\Gd\\Gd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RenilMuhammad\\OneDrive - Kovenantz Technologies India Private Limited\\Downloads\\Gd\\Gd\\Gd.csproj": {
+    "C:\\Users\\RenilMuhammad\\Documents\\Kef\\Gd\\Gd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RenilMuhammad\\OneDrive - Kovenantz Technologies India Private Limited\\Downloads\\Gd\\Gd\\Gd.csproj",
+        "projectUniqueName": "C:\\Users\\RenilMuhammad\\Documents\\Kef\\Gd\\Gd.csproj",
         "projectName": "Gd",
-        "projectPath": "C:\\Users\\RenilMuhammad\\OneDrive - Kovenantz Technologies India Private Limited\\Downloads\\Gd\\Gd\\Gd.csproj",
+        "projectPath": "C:\\Users\\RenilMuhammad\\Documents\\Kef\\Gd\\Gd.csproj",
         "packagesPath": "C:\\Users\\RenilMuhammad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RenilMuhammad\\OneDrive - Kovenantz Technologies India Private Limited\\Downloads\\Gd\\Gd\\obj\\",
+        "outputPath": "C:\\Users\\RenilMuhammad\\Documents\\Kef\\Gd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RenilMuhammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
